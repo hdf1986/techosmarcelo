@@ -1,0 +1,12 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	User Web Design
+Version:	1.0
+Last change: 01/08/2010
+Assigned to: Copo
+-------------------------------------------------------------------*/
+
+ul.second_nav li:first-child{
+	padding-left: 98px;
+}
